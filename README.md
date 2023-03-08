@@ -34,7 +34,7 @@ Leave the port as **"8080"**, and ensure that **"Support Unity"** is selected am
 Once that is set up, press **"Launch Browser"**. This should launch Slope in your browser of choice, hosted off of your PC.
 
 Please use this image as a reference for what your Servez should look like.
-![image](https://user-images.githubusercontent.com/86921268/223589811-15746f95-eb2f-44b9-a219-86ceec69b7c0.png)
+![image](https://user-images.githubusercontent.com/86921268/223592009-b095675e-6b82-4a61-b1bf-76c02f35db18.png)
 
 # Known Issues
 
