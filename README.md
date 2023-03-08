@@ -40,3 +40,4 @@ Please use this image as a reference for what your Servez should look like.
 
 To enable fullscreen correctly, press `F11` then `F5` to refresh the page.
 
+Leaderboard does not work as of July 18/19th 2018 due to Y8's acquisition of id.net
